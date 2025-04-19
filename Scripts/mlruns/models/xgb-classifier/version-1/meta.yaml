@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745058548188
+current_stage: None
+description: null
+last_updated_timestamp: 1745058548188
+name: xgb-classifier
+run_id: 8e08d6b16e9a4b81802a1be74b564de9
+run_link: null
+source: file:///D:/099-Lab/MLOPSLab/mlops2025-DSC/Scripts/mlruns/160053318033665056/8e08d6b16e9a4b81802a1be74b564de9/artifacts/xgb-model
+status: READY
+status_message: null
+storage_location: file:///D:/099-Lab/MLOPSLab/mlops2025-DSC/Scripts/mlruns/160053318033665056/8e08d6b16e9a4b81802a1be74b564de9/artifacts/xgb-model
+user_id: null
+version: 1

@@ -1,0 +1,501 @@
+Age,Income,EmploymentType,ResidenceType,CreditScore,LoanAmount,LoanTerm,PreviousDefault,RiskCategory
+60,24611,Salaried,Rented,598,49900,36,No,Medium Risk
+50,47663,Salaried,Rented,753,47946,24,No,Medium Risk
+36,71991,Salaried,Rented,674,12851,60,No,Medium Risk
+64,77679,Self-employed,Rented,698,21288,60,No,Medium Risk
+29,124182,Salaried,Rented,659,12156,48,No,Medium Risk
+42,50977,Salaried,Owned,619,7044,24,Yes,High Risk
+60,114704,Salaried,Owned,681,12368,36,No,Medium Risk
+40,69115,Salaried,Rented,572,24900,24,No,High Risk
+44,111007,Salaried,Rented,595,35600,24,No,Medium Risk
+32,108223,Unemployed,Owned,686,30634,48,No,Medium Risk
+32,80890,Salaried,Parental Home,582,14168,48,No,Medium Risk
+45,86387,Salaried,Owned,640,25961,36,No,Medium Risk
+57,38071,Salaried,Owned,642,49096,60,No,Medium Risk
+61,79275,Salaried,Rented,623,28852,36,No,Medium Risk
+45,92369,Self-employed,Rented,552,38110,36,No,High Risk
+24,31938,Salaried,Rented,618,37174,36,No,Medium Risk
+43,55195,Salaried,Rented,608,39215,60,No,Medium Risk
+23,111680,Self-employed,Parental Home,658,31955,12,No,Medium Risk
+45,24000,Salaried,Owned,655,11581,60,No,Medium Risk
+65,90588,Self-employed,Parental Home,668,49619,60,Yes,High Risk
+51,121042,Salaried,Rented,616,11317,24,No,Medium Risk
+59,113610,Self-employed,Owned,676,47856,36,Yes,High Risk
+23,140420,Salaried,Owned,572,31649,60,No,High Risk
+42,123691,Self-employed,Rented,558,28132,36,Yes,High Risk
+54,126306,Salaried,Rented,533,21789,60,Yes,High Risk
+33,117856,Salaried,Parental Home,625,19567,60,No,Medium Risk
+43,58304,Salaried,Rented,612,19868,36,No,Medium Risk
+65,131783,Unemployed,Parental Home,689,29370,36,No,Medium Risk
+46,89449,Self-employed,Rented,617,47533,60,No,Medium Risk
+48,102986,Self-employed,Owned,663,35483,48,No,Medium Risk
+63,109643,Salaried,Parental Home,690,17466,24,No,Medium Risk
+49,40764,Self-employed,Owned,615,33803,12,No,Medium Risk
+37,128940,Salaried,Owned,664,23230,36,No,Medium Risk
+36,106027,Salaried,Parental Home,700,22862,60,No,Low Risk
+68,58494,Salaried,Owned,588,48355,60,No,Medium Risk
+65,23373,Self-employed,Rented,651,36259,48,No,Medium Risk
+24,32161,Salaried,Owned,615,38539,24,No,Medium Risk
+58,117532,Salaried,Rented,591,26909,24,No,Medium Risk
+28,112658,Self-employed,Rented,573,35795,60,No,High Risk
+42,143633,Salaried,Rented,590,13770,24,No,Medium Risk
+30,120386,Salaried,Owned,653,16093,24,No,Medium Risk
+60,47350,Salaried,Owned,569,5193,24,No,High Risk
+39,113008,Salaried,Rented,622,39775,48,No,Medium Risk
+25,114297,Salaried,Owned,690,22569,60,No,Medium Risk
+46,45351,Salaried,Rented,672,16190,24,No,Medium Risk
+35,108668,Unemployed,Parental Home,623,47752,36,No,Medium Risk
+30,134585,Salaried,Parental Home,734,37327,48,No,Low Risk
+47,35305,Salaried,Rented,744,47070,60,No,Medium Risk
+23,95353,Self-employed,Rented,651,25389,24,No,Medium Risk
+41,96797,Salaried,Owned,526,45197,36,No,High Risk
+49,85953,Salaried,Parental Home,694,7261,36,No,Medium Risk
+68,77458,Salaried,Rented,535,33369,60,Yes,High Risk
+28,127112,Salaried,Parental Home,723,31512,36,No,Low Risk
+65,40358,Salaried,Owned,704,11716,24,No,Medium Risk
+29,23267,Self-employed,Owned,738,26259,48,No,Medium Risk
+68,102745,Unemployed,Rented,663,33933,48,No,Medium Risk
+56,109588,Salaried,Owned,631,46689,12,No,Medium Risk
+35,58513,Salaried,Parental Home,627,9378,60,No,Medium Risk
+38,46092,Salaried,Owned,622,45583,24,No,Medium Risk
+57,31338,Self-employed,Rented,699,24835,36,Yes,High Risk
+61,20412,Salaried,Owned,685,34033,36,No,Medium Risk
+25,27543,Salaried,Parental Home,656,29000,48,No,Medium Risk
+23,125891,Salaried,Rented,613,15332,36,No,Medium Risk
+27,53496,Salaried,Owned,781,47604,60,No,Low Risk
+63,80692,Self-employed,Rented,695,7800,48,No,Medium Risk
+25,109084,Salaried,Parental Home,570,34538,48,No,High Risk
+50,112920,Self-employed,Parental Home,624,35119,48,No,Medium Risk
+39,143555,Salaried,Rented,696,13333,48,No,Medium Risk
+47,64425,Self-employed,Rented,610,10410,12,No,Medium Risk
+65,58756,Salaried,Parental Home,667,22839,36,Yes,High Risk
+55,38888,Salaried,Rented,697,35519,60,No,Medium Risk
+31,55735,Unemployed,Parental Home,480,10808,24,No,High Risk
+57,67295,Self-employed,Owned,644,11796,48,No,Medium Risk
+35,137474,Self-employed,Parental Home,646,26180,60,Yes,High Risk
+52,134352,Salaried,Rented,629,48056,12,No,Medium Risk
+69,103042,Self-employed,Parental Home,665,22709,48,No,Medium Risk
+36,105999,Salaried,Rented,682,22543,36,Yes,High Risk
+29,37955,Self-employed,Owned,657,42418,36,No,Medium Risk
+35,57841,Salaried,Rented,631,34075,12,No,Medium Risk
+44,90640,Self-employed,Parental Home,681,42755,12,No,Medium Risk
+61,85510,Self-employed,Owned,652,42465,48,No,Medium Risk
+42,54911,Self-employed,Owned,638,35502,60,No,Medium Risk
+37,79031,Salaried,Parental Home,584,21724,48,No,Medium Risk
+66,108726,Salaried,Owned,571,8828,36,No,High Risk
+39,27357,Self-employed,Owned,583,22087,12,No,Medium Risk
+68,52479,Salaried,Parental Home,663,17605,48,Yes,High Risk
+45,81476,Self-employed,Owned,646,36337,24,No,Medium Risk
+47,64811,Self-employed,Owned,575,10482,60,No,High Risk
+46,56208,Salaried,Rented,682,32005,60,No,Medium Risk
+66,40150,Self-employed,Parental Home,718,27760,48,No,Medium Risk
+62,91180,Salaried,Parental Home,620,10463,60,No,Medium Risk
+50,63286,Self-employed,Owned,562,9912,12,Yes,High Risk
+36,132856,Self-employed,Owned,614,9648,48,No,Medium Risk
+66,88450,Salaried,Rented,692,38623,36,No,Medium Risk
+22,41352,Salaried,Rented,677,40634,60,No,Medium Risk
+46,75069,Self-employed,Rented,603,49602,24,No,Medium Risk
+28,131888,Salaried,Rented,726,8112,48,No,Low Risk
+30,130448,Salaried,Rented,717,27054,60,No,Low Risk
+45,34397,Salaried,Parental Home,613,9492,12,No,Medium Risk
+22,61555,Salaried,Owned,612,27207,36,No,Medium Risk
+65,66959,Salaried,Rented,620,20114,48,No,Medium Risk
+29,20728,Salaried,Owned,624,39285,36,No,Medium Risk
+45,70517,Salaried,Rented,697,21018,24,No,Medium Risk
+32,139180,Unemployed,Parental Home,671,26386,24,Yes,High Risk
+38,86234,Salaried,Parental Home,693,22740,24,No,Medium Risk
+29,59954,Salaried,Rented,683,49199,60,No,Medium Risk
+56,67280,Salaried,Owned,735,13210,36,No,Low Risk
+56,99459,Salaried,Parental Home,597,49363,12,No,Medium Risk
+54,36779,Salaried,Owned,669,17743,36,No,Medium Risk
+26,83932,Unemployed,Rented,541,47092,36,No,High Risk
+63,92936,Self-employed,Owned,584,49299,24,No,Medium Risk
+60,44466,Salaried,Rented,646,11588,36,No,Medium Risk
+62,56939,Self-employed,Owned,670,8311,36,Yes,High Risk
+49,89896,Self-employed,Owned,644,27432,36,No,Medium Risk
+28,55270,Salaried,Rented,621,38755,48,No,Medium Risk
+30,79163,Self-employed,Parental Home,630,8321,24,No,Medium Risk
+29,102637,Self-employed,Owned,718,20812,48,No,Medium Risk
+33,71934,Salaried,Owned,630,42383,36,No,Medium Risk
+55,84895,Salaried,Parental Home,737,18146,36,No,Low Risk
+54,52307,Self-employed,Owned,689,18654,48,No,Medium Risk
+69,74098,Self-employed,Owned,672,40820,36,No,Medium Risk
+44,80921,Salaried,Owned,590,5726,60,No,Medium Risk
+45,25486,Self-employed,Owned,696,8760,48,No,Medium Risk
+58,28335,Self-employed,Owned,625,27190,36,No,Medium Risk
+56,106900,Self-employed,Rented,590,6875,60,No,Medium Risk
+65,146020,Self-employed,Rented,675,28377,48,No,Medium Risk
+61,141954,Self-employed,Rented,580,9033,24,No,Medium Risk
+43,122795,Salaried,Owned,611,43211,24,No,Medium Risk
+48,109112,Salaried,Owned,649,22373,24,No,Medium Risk
+56,117203,Unemployed,Rented,760,8744,60,No,Medium Risk
+22,31130,Self-employed,Owned,615,29995,48,Yes,High Risk
+56,107508,Salaried,Owned,627,21977,60,No,Medium Risk
+58,125955,Salaried,Rented,686,37402,48,No,Medium Risk
+68,138324,Unemployed,Rented,588,39542,36,Yes,High Risk
+35,80566,Salaried,Rented,672,15651,12,No,Medium Risk
+24,86703,Self-employed,Parental Home,710,38703,48,No,Medium Risk
+22,47192,Self-employed,Rented,634,18395,36,Yes,High Risk
+26,21062,Unemployed,Parental Home,701,34808,60,No,Medium Risk
+47,104076,Salaried,Parental Home,664,41576,24,No,Medium Risk
+35,109780,Salaried,Rented,613,21715,36,No,Medium Risk
+60,41545,Salaried,Rented,640,49409,48,No,Medium Risk
+48,41689,Salaried,Parental Home,631,29306,48,No,Medium Risk
+30,31174,Salaried,Owned,645,24086,36,No,Medium Risk
+36,108461,Salaried,Rented,657,19376,48,No,Medium Risk
+36,146174,Salaried,Owned,679,10889,24,No,Medium Risk
+47,123033,Salaried,Owned,675,42822,48,No,Medium Risk
+63,29348,Salaried,Parental Home,528,41636,48,No,High Risk
+34,43714,Salaried,Rented,645,25584,60,No,Medium Risk
+53,58102,Salaried,Parental Home,574,39610,60,No,High Risk
+60,94460,Self-employed,Rented,636,15058,36,No,Medium Risk
+53,122634,Unemployed,Rented,643,14101,24,No,Medium Risk
+25,109930,Salaried,Rented,698,17497,60,No,Medium Risk
+51,26801,Self-employed,Rented,648,9658,36,No,Medium Risk
+58,123150,Salaried,Rented,662,16381,60,Yes,High Risk
+44,92267,Self-employed,Parental Home,689,45312,24,No,Medium Risk
+60,68136,Salaried,Rented,711,45486,48,No,Low Risk
+66,43625,Self-employed,Rented,643,22154,60,No,Medium Risk
+36,102873,Self-employed,Rented,654,24539,60,No,Medium Risk
+64,120843,Self-employed,Rented,650,16777,36,No,Medium Risk
+50,92592,Self-employed,Owned,622,39396,48,No,Medium Risk
+57,97052,Salaried,Parental Home,611,35373,36,No,Medium Risk
+34,64261,Salaried,Rented,536,38154,12,Yes,High Risk
+53,21542,Self-employed,Rented,596,11031,48,No,Medium Risk
+28,41677,Salaried,Rented,561,32997,48,No,High Risk
+43,66732,Self-employed,Owned,712,11439,60,No,Medium Risk
+49,70343,Salaried,Owned,659,27785,36,No,Medium Risk
+23,59081,Salaried,Rented,643,18392,24,No,Medium Risk
+63,82856,Salaried,Owned,614,33669,12,No,Medium Risk
+66,113105,Salaried,Owned,651,33939,36,No,Medium Risk
+27,108858,Unemployed,Owned,607,7282,36,No,Medium Risk
+49,39065,Salaried,Owned,658,39624,48,No,Medium Risk
+49,144097,Salaried,Owned,662,29364,36,No,Medium Risk
+65,103460,Salaried,Parental Home,606,6998,60,No,Medium Risk
+65,108092,Salaried,Parental Home,605,36705,60,No,Medium Risk
+41,146116,Self-employed,Rented,698,43244,48,No,Medium Risk
+51,74693,Salaried,Parental Home,647,14428,60,No,Medium Risk
+32,46962,Salaried,Rented,610,42437,48,No,Medium Risk
+49,48295,Salaried,Rented,631,17336,36,No,Medium Risk
+46,33807,Self-employed,Rented,599,14342,24,No,Medium Risk
+60,62348,Salaried,Owned,646,44832,36,No,Medium Risk
+54,46432,Self-employed,Owned,691,12446,36,No,Medium Risk
+22,103285,Self-employed,Parental Home,648,43392,60,Yes,High Risk
+48,126995,Salaried,Rented,768,12461,36,No,Low Risk
+34,111792,Salaried,Owned,671,39587,60,No,Medium Risk
+62,77854,Salaried,Parental Home,661,15516,48,No,Medium Risk
+24,60262,Salaried,Owned,604,18749,24,No,Medium Risk
+60,57080,Unemployed,Rented,638,22514,60,No,Medium Risk
+27,21324,Self-employed,Rented,611,40426,36,No,Medium Risk
+29,111267,Salaried,Owned,541,41268,36,Yes,High Risk
+48,144707,Salaried,Rented,698,29950,48,No,Medium Risk
+30,55909,Salaried,Rented,624,39888,24,No,Medium Risk
+58,109339,Self-employed,Owned,611,41788,48,Yes,High Risk
+54,39870,Salaried,Parental Home,660,15213,36,No,Medium Risk
+63,54578,Salaried,Rented,675,41027,36,No,Medium Risk
+65,92124,Self-employed,Owned,633,33011,60,Yes,High Risk
+45,137611,Self-employed,Parental Home,649,47849,36,No,Medium Risk
+36,123605,Salaried,Owned,687,39591,24,Yes,High Risk
+53,46790,Unemployed,Rented,631,22858,36,No,Medium Risk
+53,138874,Self-employed,Rented,665,23626,60,No,Medium Risk
+45,45289,Salaried,Rented,567,18467,24,No,High Risk
+62,75129,Salaried,Rented,587,44758,24,No,Medium Risk
+33,113714,Salaried,Owned,680,8134,12,No,Medium Risk
+60,114246,Salaried,Owned,585,21743,12,No,Medium Risk
+23,35485,Self-employed,Rented,661,20434,60,No,Medium Risk
+24,64482,Self-employed,Owned,642,15233,48,No,Medium Risk
+58,106188,Salaried,Rented,631,6141,36,No,Medium Risk
+38,24748,Salaried,Rented,608,23019,48,Yes,High Risk
+23,106769,Salaried,Rented,695,25384,36,No,Medium Risk
+23,29435,Salaried,Rented,736,47903,60,Yes,High Risk
+49,23709,Self-employed,Rented,665,41129,60,No,Medium Risk
+44,143961,Salaried,Owned,666,27967,36,No,Medium Risk
+58,50355,Salaried,Rented,615,45603,60,No,Medium Risk
+53,75771,Salaried,Parental Home,590,16172,48,No,Medium Risk
+54,77799,Unemployed,Parental Home,648,21390,36,No,Medium Risk
+22,33116,Salaried,Rented,601,8267,24,Yes,High Risk
+40,45470,Self-employed,Owned,561,44332,36,No,High Risk
+23,62344,Salaried,Rented,690,31167,48,No,Medium Risk
+65,62918,Self-employed,Rented,692,26312,60,No,Medium Risk
+47,72224,Unemployed,Rented,607,32840,48,No,Medium Risk
+53,59298,Salaried,Rented,662,23990,60,No,Medium Risk
+27,128492,Salaried,Rented,700,49179,48,No,Low Risk
+53,100219,Self-employed,Rented,660,10906,60,No,Medium Risk
+25,81629,Self-employed,Owned,590,45379,48,Yes,High Risk
+32,86040,Salaried,Owned,638,22297,36,Yes,High Risk
+38,119518,Salaried,Rented,716,7011,36,Yes,High Risk
+59,119835,Self-employed,Parental Home,662,49014,60,No,Medium Risk
+45,48016,Salaried,Parental Home,676,16738,12,No,Medium Risk
+26,43960,Salaried,Parental Home,667,33797,60,No,Medium Risk
+55,53591,Self-employed,Rented,607,16120,24,No,Medium Risk
+27,102848,Salaried,Rented,618,13767,36,No,Medium Risk
+43,123333,Salaried,Rented,666,27852,60,No,Medium Risk
+32,131732,Salaried,Rented,690,18703,24,No,Medium Risk
+69,134821,Salaried,Parental Home,704,5929,24,Yes,High Risk
+37,87641,Salaried,Rented,607,16951,36,No,Medium Risk
+54,56395,Self-employed,Rented,671,31039,60,No,Medium Risk
+30,131276,Salaried,Rented,709,34504,12,No,Low Risk
+27,149695,Salaried,Rented,600,22438,60,No,Medium Risk
+37,42700,Salaried,Owned,724,10744,24,No,Medium Risk
+50,54620,Salaried,Parental Home,731,23284,60,No,Low Risk
+24,123214,Self-employed,Owned,781,47417,60,Yes,High Risk
+41,148148,Salaried,Rented,661,44748,36,No,Medium Risk
+57,40559,Salaried,Owned,661,12069,36,No,Medium Risk
+40,113045,Self-employed,Rented,691,47359,36,No,Medium Risk
+47,113396,Salaried,Owned,689,24799,48,No,Medium Risk
+24,81642,Salaried,Owned,706,38210,12,No,Low Risk
+40,96539,Salaried,Rented,689,33226,12,No,Medium Risk
+41,41732,Salaried,Rented,644,9652,12,No,Medium Risk
+53,148675,Salaried,Rented,711,29323,36,No,Low Risk
+28,111362,Salaried,Rented,596,47138,24,No,Medium Risk
+62,50354,Self-employed,Parental Home,650,12597,48,No,Medium Risk
+54,33843,Salaried,Rented,728,42226,60,No,Medium Risk
+61,130008,Salaried,Rented,587,11591,36,No,Medium Risk
+60,134065,Unemployed,Rented,616,30833,36,Yes,High Risk
+39,91726,Salaried,Owned,683,16826,36,No,Medium Risk
+61,37640,Self-employed,Rented,669,31417,60,No,Medium Risk
+22,72528,Salaried,Owned,606,23693,60,No,Medium Risk
+32,58413,Salaried,Rented,629,19138,60,No,Medium Risk
+49,148142,Self-employed,Rented,590,7169,60,No,Medium Risk
+46,72638,Salaried,Rented,699,23556,12,No,Medium Risk
+44,72736,Salaried,Rented,637,27052,60,No,Medium Risk
+52,127892,Salaried,Owned,739,11313,48,Yes,High Risk
+51,130133,Salaried,Rented,654,13315,24,No,Medium Risk
+63,126357,Self-employed,Owned,639,13036,60,No,Medium Risk
+56,88866,Salaried,Rented,634,36778,24,No,Medium Risk
+28,39087,Salaried,Rented,637,32734,48,No,Medium Risk
+37,61430,Salaried,Rented,655,28173,24,No,Medium Risk
+47,44504,Self-employed,Rented,775,35403,36,No,Medium Risk
+69,27114,Salaried,Rented,633,5785,48,No,Medium Risk
+23,98859,Self-employed,Rented,634,11139,36,No,Medium Risk
+22,119657,Salaried,Parental Home,653,11344,36,No,Medium Risk
+69,30975,Self-employed,Rented,704,23800,36,No,Medium Risk
+33,31023,Self-employed,Parental Home,578,30372,60,No,High Risk
+26,41447,Self-employed,Rented,672,25538,24,No,Medium Risk
+58,110469,Self-employed,Rented,609,19973,36,No,Medium Risk
+53,145899,Salaried,Rented,677,10619,60,No,Medium Risk
+30,43959,Salaried,Rented,625,39704,60,No,Medium Risk
+62,86203,Salaried,Parental Home,534,41575,36,Yes,High Risk
+56,139156,Salaried,Rented,668,44919,48,No,Medium Risk
+40,49703,Salaried,Rented,668,47261,60,No,Medium Risk
+69,29337,Salaried,Rented,621,32716,60,No,Medium Risk
+37,66427,Salaried,Owned,618,8236,36,No,Medium Risk
+24,141507,Salaried,Parental Home,584,20848,24,No,Medium Risk
+41,81529,Self-employed,Rented,688,7352,24,No,Medium Risk
+45,122023,Salaried,Rented,694,6932,24,No,Medium Risk
+54,104665,Self-employed,Rented,606,15913,36,Yes,High Risk
+45,125787,Self-employed,Rented,623,13556,12,No,Medium Risk
+32,51921,Self-employed,Rented,646,26300,48,No,Medium Risk
+29,53307,Unemployed,Owned,763,10498,36,No,Medium Risk
+57,47355,Self-employed,Rented,677,15582,24,No,Medium Risk
+59,123268,Self-employed,Rented,602,14569,60,No,Medium Risk
+61,147016,Self-employed,Rented,665,9857,36,No,Medium Risk
+41,24835,Salaried,Rented,581,5340,12,No,Medium Risk
+56,40159,Salaried,Parental Home,685,48949,60,No,Medium Risk
+69,124346,Salaried,Rented,733,21766,12,No,Low Risk
+46,67605,Salaried,Rented,733,31132,48,No,Low Risk
+56,141790,Unemployed,Owned,686,13491,48,No,Medium Risk
+46,125616,Self-employed,Rented,620,5138,36,No,Medium Risk
+50,58088,Self-employed,Rented,584,5358,60,No,Medium Risk
+39,98752,Salaried,Rented,579,14714,36,No,High Risk
+67,75284,Self-employed,Rented,509,24840,36,No,High Risk
+39,77043,Unemployed,Rented,684,39395,12,Yes,High Risk
+23,145388,Self-employed,Rented,644,35654,24,No,Medium Risk
+56,55547,Self-employed,Owned,695,30879,60,No,Medium Risk
+37,117007,Unemployed,Owned,721,20996,36,No,Medium Risk
+62,102844,Salaried,Rented,654,42772,36,No,Medium Risk
+57,47532,Self-employed,Owned,657,31762,36,No,Medium Risk
+54,54349,Salaried,Rented,626,18283,36,No,Medium Risk
+25,142402,Salaried,Rented,632,44420,12,No,Medium Risk
+54,138012,Self-employed,Parental Home,686,24554,36,No,Medium Risk
+35,65445,Salaried,Owned,641,25219,48,No,Medium Risk
+42,25713,Self-employed,Parental Home,634,39919,24,Yes,High Risk
+69,76178,Salaried,Rented,649,14429,24,No,Medium Risk
+41,69407,Self-employed,Parental Home,694,49695,12,No,Medium Risk
+29,90340,Salaried,Rented,615,44673,36,No,Medium Risk
+28,70990,Self-employed,Rented,646,24218,60,No,Medium Risk
+24,95672,Self-employed,Parental Home,662,17452,12,No,Medium Risk
+38,149473,Salaried,Parental Home,708,23951,24,No,Low Risk
+54,85545,Salaried,Parental Home,638,6307,36,No,Medium Risk
+69,104791,Self-employed,Rented,614,19852,48,No,Medium Risk
+33,78141,Salaried,Rented,625,30232,48,Yes,High Risk
+43,43793,Salaried,Rented,702,40428,36,Yes,High Risk
+43,76570,Salaried,Rented,751,48171,48,No,Low Risk
+67,115084,Salaried,Rented,584,31485,48,Yes,High Risk
+51,57892,Self-employed,Parental Home,595,15238,60,Yes,High Risk
+59,21015,Unemployed,Rented,641,43975,60,No,Medium Risk
+59,144704,Salaried,Owned,655,6140,24,No,Medium Risk
+66,81813,Salaried,Rented,689,29842,24,No,Medium Risk
+29,47712,Unemployed,Rented,605,31421,24,Yes,High Risk
+48,120497,Salaried,Rented,596,6708,36,No,Medium Risk
+48,28415,Salaried,Rented,656,8630,60,Yes,High Risk
+55,131854,Self-employed,Rented,637,24595,36,No,Medium Risk
+42,132816,Unemployed,Parental Home,696,15485,24,No,Medium Risk
+51,148778,Unemployed,Parental Home,674,33308,48,No,Medium Risk
+54,82292,Self-employed,Parental Home,677,49789,36,No,Medium Risk
+49,43833,Salaried,Owned,644,31086,24,Yes,High Risk
+68,24158,Self-employed,Owned,767,21859,36,No,Medium Risk
+54,82680,Salaried,Parental Home,608,12684,36,No,Medium Risk
+26,40309,Salaried,Parental Home,680,30552,48,No,Medium Risk
+69,26970,Salaried,Owned,586,6207,12,Yes,High Risk
+40,92474,Salaried,Parental Home,596,6960,24,No,Medium Risk
+25,106704,Self-employed,Rented,619,5557,36,No,Medium Risk
+56,66540,Salaried,Owned,731,34689,24,No,Low Risk
+38,40384,Salaried,Rented,663,18893,48,No,Medium Risk
+65,38017,Salaried,Rented,620,37272,36,No,Medium Risk
+49,95880,Salaried,Owned,668,5882,36,No,Medium Risk
+51,125570,Self-employed,Rented,651,42529,60,No,Medium Risk
+50,28702,Salaried,Parental Home,625,43635,48,No,Medium Risk
+67,20384,Unemployed,Rented,580,34535,24,No,Medium Risk
+27,20404,Salaried,Owned,721,17869,36,No,Medium Risk
+56,60943,Salaried,Owned,660,12166,48,No,Medium Risk
+62,67926,Self-employed,Owned,758,17982,48,No,Medium Risk
+58,49189,Salaried,Parental Home,697,45697,24,No,Medium Risk
+45,32763,Self-employed,Owned,677,43115,60,No,Medium Risk
+50,38384,Salaried,Owned,628,12269,36,No,Medium Risk
+67,80100,Salaried,Rented,595,33064,24,No,Medium Risk
+52,118142,Self-employed,Owned,639,18527,24,No,Medium Risk
+56,29860,Salaried,Owned,593,7454,12,No,Medium Risk
+54,124293,Salaried,Rented,682,25878,60,Yes,High Risk
+42,100642,Self-employed,Rented,731,17991,24,No,Medium Risk
+53,70612,Salaried,Rented,636,7808,24,No,Medium Risk
+44,43574,Self-employed,Parental Home,697,44410,60,Yes,High Risk
+54,43524,Salaried,Rented,615,41593,36,No,Medium Risk
+24,89172,Self-employed,Rented,634,41304,12,No,Medium Risk
+39,30916,Self-employed,Owned,609,35386,12,Yes,High Risk
+46,24809,Unemployed,Owned,543,8802,24,No,High Risk
+63,52201,Self-employed,Owned,648,33753,24,No,Medium Risk
+52,73330,Salaried,Parental Home,656,26083,48,No,Medium Risk
+24,33456,Self-employed,Rented,703,23354,24,No,Medium Risk
+61,133748,Salaried,Parental Home,689,27190,24,No,Medium Risk
+67,76397,Salaried,Rented,690,11142,48,Yes,High Risk
+45,141288,Salaried,Owned,601,33398,48,No,Medium Risk
+53,58765,Salaried,Owned,672,46862,36,No,Medium Risk
+68,54816,Salaried,Rented,729,38132,36,No,Low Risk
+43,65106,Self-employed,Owned,668,24503,36,Yes,High Risk
+44,73932,Self-employed,Owned,741,39631,36,No,Medium Risk
+23,37100,Self-employed,Rented,750,21499,36,Yes,High Risk
+48,77091,Salaried,Owned,636,44852,36,Yes,High Risk
+63,41949,Unemployed,Rented,615,13016,60,No,Medium Risk
+23,90080,Salaried,Rented,611,7384,12,No,Medium Risk
+47,57744,Salaried,Rented,574,20072,48,No,High Risk
+38,65543,Salaried,Rented,624,41703,24,No,Medium Risk
+61,128319,Salaried,Rented,710,19482,48,No,Low Risk
+54,112193,Self-employed,Rented,539,45510,48,No,High Risk
+30,56187,Salaried,Rented,598,26826,60,No,Medium Risk
+64,132734,Salaried,Rented,643,7490,12,No,Medium Risk
+69,27239,Salaried,Rented,606,30518,36,No,Medium Risk
+60,144454,Salaried,Rented,623,29045,36,No,Medium Risk
+50,34489,Salaried,Rented,624,31910,48,Yes,High Risk
+63,134937,Self-employed,Rented,637,29566,36,No,Medium Risk
+47,78017,Salaried,Parental Home,613,38905,36,Yes,High Risk
+56,81877,Salaried,Rented,609,32103,36,No,Medium Risk
+46,63125,Salaried,Parental Home,696,41188,36,No,Medium Risk
+45,69922,Self-employed,Rented,702,10845,36,Yes,High Risk
+34,114074,Self-employed,Owned,580,26162,24,No,Medium Risk
+28,52049,Self-employed,Rented,512,41674,60,No,High Risk
+57,57131,Unemployed,Rented,703,24337,48,No,Medium Risk
+66,62944,Salaried,Owned,588,27313,60,No,Medium Risk
+41,135765,Salaried,Owned,660,31943,24,No,Medium Risk
+22,93963,Self-employed,Owned,571,17413,60,No,High Risk
+29,126884,Self-employed,Owned,714,5276,60,No,Medium Risk
+67,145917,Unemployed,Parental Home,777,22611,48,No,Medium Risk
+37,44285,Self-employed,Parental Home,659,44105,48,No,Medium Risk
+35,57626,Self-employed,Rented,645,16944,36,No,Medium Risk
+33,62808,Unemployed,Rented,633,20906,60,No,Medium Risk
+44,108464,Self-employed,Rented,689,25536,36,No,Medium Risk
+36,73871,Self-employed,Rented,678,32810,12,Yes,High Risk
+49,39198,Unemployed,Rented,700,17306,36,No,Medium Risk
+55,39758,Unemployed,Owned,618,15503,60,No,Medium Risk
+23,35254,Salaried,Owned,667,24225,60,No,Medium Risk
+53,64238,Unemployed,Rented,622,41976,60,No,Medium Risk
+44,21252,Salaried,Owned,597,16590,48,No,Medium Risk
+43,59764,Salaried,Rented,647,15886,24,No,Medium Risk
+46,97709,Self-employed,Owned,603,17866,24,No,Medium Risk
+43,57441,Salaried,Parental Home,708,6088,24,Yes,High Risk
+43,112234,Salaried,Owned,606,8363,12,No,Medium Risk
+63,73682,Salaried,Rented,668,37792,36,No,Medium Risk
+27,79494,Salaried,Rented,619,14764,24,No,Medium Risk
+36,101317,Self-employed,Parental Home,663,25620,36,No,Medium Risk
+64,85215,Salaried,Rented,623,47727,60,No,Medium Risk
+58,98587,Salaried,Parental Home,587,17935,36,No,Medium Risk
+54,125185,Salaried,Parental Home,674,13068,60,No,Medium Risk
+29,26949,Self-employed,Rented,638,12295,48,No,Medium Risk
+65,127825,Self-employed,Rented,664,46160,24,No,Medium Risk
+65,75393,Salaried,Rented,628,16390,36,Yes,High Risk
+26,93553,Salaried,Owned,583,46216,12,No,Medium Risk
+60,26941,Salaried,Rented,704,25131,36,Yes,High Risk
+25,45934,Unemployed,Rented,686,34218,48,No,Medium Risk
+27,43386,Unemployed,Parental Home,621,15433,12,Yes,High Risk
+66,145362,Salaried,Owned,653,20038,24,No,Medium Risk
+53,81886,Salaried,Rented,702,33182,36,No,Low Risk
+51,95745,Salaried,Owned,627,16528,60,No,Medium Risk
+68,103251,Self-employed,Owned,634,26281,48,Yes,High Risk
+56,114456,Salaried,Rented,662,13605,48,Yes,High Risk
+61,73413,Salaried,Parental Home,627,39782,24,Yes,High Risk
+37,76800,Salaried,Owned,692,6381,48,Yes,High Risk
+34,117239,Salaried,Owned,641,6098,48,No,Medium Risk
+63,62318,Self-employed,Parental Home,610,24810,48,No,Medium Risk
+51,139803,Salaried,Rented,680,29322,60,No,Medium Risk
+40,90173,Unemployed,Owned,592,46869,36,Yes,High Risk
+38,90390,Self-employed,Parental Home,750,37955,60,No,Medium Risk
+40,72329,Salaried,Owned,729,49716,60,No,Low Risk
+49,142418,Salaried,Rented,675,15207,12,No,Medium Risk
+47,63088,Self-employed,Parental Home,671,26793,36,No,Medium Risk
+58,136868,Salaried,Owned,669,7092,60,No,Medium Risk
+47,123196,Salaried,Rented,625,33220,24,Yes,High Risk
+44,59811,Self-employed,Rented,664,23514,36,No,Medium Risk
+30,134825,Salaried,Parental Home,603,43010,60,No,Medium Risk
+33,75479,Salaried,Parental Home,675,13549,36,Yes,High Risk
+22,105392,Salaried,Rented,693,27031,24,No,Medium Risk
+22,107369,Self-employed,Rented,631,10185,36,No,Medium Risk
+68,137520,Salaried,Rented,620,20271,24,Yes,High Risk
+55,39963,Salaried,Owned,589,10776,36,No,Medium Risk
+53,75123,Salaried,Rented,722,17449,12,No,Low Risk
+69,145911,Salaried,Parental Home,624,29297,48,No,Medium Risk
+46,122468,Salaried,Rented,640,45591,36,Yes,High Risk
+61,112705,Salaried,Owned,665,20717,48,No,Medium Risk
+66,93477,Salaried,Owned,664,45123,48,No,Medium Risk
+22,34388,Salaried,Rented,687,44233,36,No,Medium Risk
+37,25569,Salaried,Rented,631,15350,48,No,Medium Risk
+60,89836,Salaried,Rented,593,35622,24,Yes,High Risk
+26,124573,Salaried,Owned,584,40323,36,Yes,High Risk
+43,56586,Salaried,Owned,621,7951,24,No,Medium Risk
+50,147018,Self-employed,Rented,602,22622,60,No,Medium Risk
+24,32015,Salaried,Owned,634,9727,12,No,Medium Risk
+33,65002,Salaried,Owned,715,43454,36,No,Low Risk
+47,136594,Salaried,Parental Home,631,41469,48,No,Medium Risk
+37,26254,Self-employed,Rented,631,40548,36,No,Medium Risk
+58,37144,Self-employed,Parental Home,649,28782,12,No,Medium Risk
+43,44214,Salaried,Rented,629,33454,36,Yes,High Risk
+50,125654,Salaried,Owned,646,7368,48,No,Medium Risk
+35,100719,Self-employed,Rented,677,20592,48,No,Medium Risk
+49,91774,Salaried,Rented,694,27173,36,No,Medium Risk
+26,26090,Salaried,Parental Home,700,38204,36,No,Medium Risk
+68,31637,Salaried,Rented,752,40596,36,Yes,High Risk
+51,42415,Salaried,Rented,678,39324,48,Yes,High Risk
+67,44071,Self-employed,Rented,761,28864,36,Yes,High Risk
+26,78243,Self-employed,Rented,611,35750,36,No,Medium Risk
+33,130951,Salaried,Rented,754,15576,24,No,Low Risk
+37,145827,Salaried,Rented,630,21566,12,No,Medium Risk
+47,128215,Self-employed,Parental Home,635,12190,24,Yes,High Risk
+47,61240,Self-employed,Parental Home,644,28071,24,No,Medium Risk
+69,146146,Unemployed,Rented,639,43333,36,No,Medium Risk
+42,103807,Self-employed,Rented,654,20369,48,No,Medium Risk
+60,121570,Self-employed,Rented,620,29035,24,No,Medium Risk
+57,53434,Self-employed,Rented,691,6589,60,No,Medium Risk
+54,89724,Salaried,Rented,622,30235,12,No,Medium Risk
+51,135359,Salaried,Owned,682,5159,48,Yes,High Risk
+58,95697,Self-employed,Parental Home,726,17145,48,No,Medium Risk
+44,48732,Salaried,Rented,632,20373,36,Yes,High Risk
+31,141465,Self-employed,Owned,689,36921,12,No,Medium Risk
+26,31314,Salaried,Rented,677,44323,48,No,Medium Risk
+57,43954,Salaried,Rented,762,21237,36,No,Medium Risk
+55,77108,Salaried,Owned,624,46971,60,No,Medium Risk
+52,107044,Salaried,Owned,689,13244,36,No,Medium Risk
+31,107505,Self-employed,Rented,568,19743,60,No,High Risk
+40,131195,Self-employed,Rented,625,36566,24,No,Medium Risk
+53,123081,Self-employed,Rented,667,23691,48,No,Medium Risk
+22,56668,Unemployed,Rented,719,38996,48,No,Medium Risk
+26,43061,Salaried,Rented,588,10590,48,No,Medium Risk
+66,99252,Salaried,Rented,689,10585,24,No,Medium Risk

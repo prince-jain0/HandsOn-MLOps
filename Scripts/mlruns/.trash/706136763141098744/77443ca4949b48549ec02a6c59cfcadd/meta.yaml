@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/099-Lab/MLOPSLab/mlops2025-DSC/Scripts/mlruns/706136763141098744/77443ca4949b48549ec02a6c59cfcadd/artifacts
+deleted_time: 1745058564936
+end_time: 1745058070365
+entry_point_name: ''
+experiment_id: '706136763141098744'
+lifecycle_stage: deleted
+run_id: 77443ca4949b48549ec02a6c59cfcadd
+run_name: bittersweet-grub-917
+run_uuid: 77443ca4949b48549ec02a6c59cfcadd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745058066141
+status: 3
+tags: []
+user_id: Admin

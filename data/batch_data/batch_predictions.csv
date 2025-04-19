@@ -1,0 +1,11 @@
+Age,Income,EmploymentType,ResidenceType,CreditScore,LoanAmount,LoanTerm,PreviousDefault
+63,33849,Self-employed,Parental Home,782,354853,57,No
+42,53606,Unemployed,Owned,766,229935,52,Yes
+54,59022,Unemployed,Owned,478,202134,317,Yes
+50,100847,Self-employed,Rented,699,400188,38,Yes
+24,33595,Self-employed,Rented,768,6197,178,Yes
+24,70510,Salaried,Rented,672,118480,125,Yes
+44,21005,Self-employed,Rented,373,407964,311,Yes
+27,85639,Salaried,Owned,711,454526,337,Yes
+31,93610,Self-employed,Owned,520,156970,247,No
+30,41337,Unemployed,Rented,779,189937,94,No

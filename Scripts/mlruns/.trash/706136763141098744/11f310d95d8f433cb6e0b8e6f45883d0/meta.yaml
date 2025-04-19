@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/099-Lab/MLOPSLab/mlops2025-DSC/Scripts/mlruns/706136763141098744/11f310d95d8f433cb6e0b8e6f45883d0/artifacts
+deleted_time: 1745058564936
+end_time: 1745057257824
+entry_point_name: ''
+experiment_id: '706136763141098744'
+lifecycle_stage: deleted
+run_id: 11f310d95d8f433cb6e0b8e6f45883d0
+run_name: clumsy-dove-159
+run_uuid: 11f310d95d8f433cb6e0b8e6f45883d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745057251039
+status: 3
+tags: []
+user_id: Admin
